@@ -23,9 +23,4 @@ Double-clicking `yanderify.exe` will bring up a window that looks like this:
 - "Select Image": This is a cropped picture of the face you want to be animated. In other words, this is the face that the video "wears".
 - "Select Output": This is where your result will be stored.
 
-Just hit "Go," and your video will be re-animated and re-encoded with the source audio!
-
-## Addendum
-
-Join our [discord server](https://discord.gg/eEvTzRP) (updated)
-A lot of people have asked for me to make a twitter. I probably won't be very active on it, but here ya go: @dunnousername2
+Just hit "Go," and your video will be re-animated and re-encoded with the source audi
