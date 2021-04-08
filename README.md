@@ -1,5 +1,3 @@
-[**We're looking for new maintainers!**](https://github.com/dunnousername/yanderifier/issues/66)
-
 [First-order-wrapper is not for making unethical, illicit or inappropriate content. Learn more here.](MANIFESTO.md)
 
 ## Yanderify is now known as first-order-wrapper to more accurately describe its function.
